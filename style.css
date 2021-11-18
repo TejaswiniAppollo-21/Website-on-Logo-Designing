@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+/* NAVBAR - 1 */
+
+.cowin-navbar-1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.cowin-navbar-1-anchor-buttons {
+    color: white;
+    border-style: solid;
+    background-color: black;
+    border-color: white;
+    border-radius: 7px;
+    width: 50px;
+}
+
+#cowin-navbar-1-anchor-buttons {
+    width: 100px;
+    border-color: black;
+}
+
+/* NAVBAR - 2 */
+
+.cowin-navbar-2-image {
+    height: 60px;
+    width: 200px;
+}
+
+.cowin-navbar-2-button {
+    border-style: solid;
+    border-color: white;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    height: 30px;
+    width: 150px;
+}
+
+/* CAROUSEL */
+
+.cowin-carousel-image {
+    height: 80vh;
+}
+
+.cowin-carousel-image-3 {
+    background-image: url("https://www.worldatlas.com/r/w1200/upload/9e/9d/d9/country-flags-green.jpg");
+    background-size: cover;
+    height: 80vh;
+}
+
+.cowin-carousel-image-3-card {
+    background-color: transparent;
+    color: white;
+    margin: 100px;
+    font-family: "Roboto";
+}
+
+.cowin-carousel-image-3-card-heading {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.cowin-carousel-image-3-card-button {
+    width: 150px;
+    height: 45px;
+    border-radius: 40px;
+    border-style: solid;
+    border-color: white;
+    font-size: 15px;
+}
+
+/* VACCINATION  CENTER */
+
+.cowin-vaccination-center-card {
+    height: 20px;
+}
+
+.cowin-vaccination-center-card-span {
+    color: blue;
+}
+
+.cowin-vaccination-center-line {
+    width: 50vw;
+}
+
+.cowin-vaccination-center-list {
+    height: 35px;
+    width: 200px;
+    border-radius: 20px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.cowin-vaccination-center-button {
+    color: white;
+    background-color: blue;
+    border-radius: 30px;
+    padding: 4px;
+    width: 100px;
+    border-style: solid;
+    border-color: blue;
+}
+
+/* WHAT'S NEW ON COWIN SECTION */
+
+.cowin-wnc-section-bg-container {
+    background-color: #242226;
+    color: white;
+}
+
+.cowin-wnc-section-heading {
+    text-align: center;
+    margin-right: 50px;
+}
+
+.cowin-wnc-section-bg-container-line {
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+}
+
+/* CERTIFICATION SECTION */
+
+.cowin-certification-bg-container {
+    background-color: #f0f5f4;
+}
+
+.cowin-certification-button {
+    width: 200px;
+    border-radius: 20px;
+    color: blue;
+    border-color: blue;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#cowin-certification-button {
+    color: white;
+    background-color: blue;
+}
+
+/* CARD SECTION */
+
+.cowin-card-section-bg-container {
+    background-color: #f0f5f4;
+}
+
+.cowin-card-numbers {
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border-radius: 50px;
+    padding: 5px 10px 25px 20px;
+    margin-left: 80px;
+
+}
+
+.cowin-card {
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    height: 250px;
+}
+
+.cowin-card-image {
+    height: 150px;
+    border-radius: 15px;
+}
+
+/* PARTNER SECTION */
+
+.cowin-partner-logo {
+    height: 60px;
+    width: 180px;
+}
+
+.cowin-partner-content {
+    color: blue;
+}
